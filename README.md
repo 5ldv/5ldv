@@ -1,4 +1,4 @@
-
+### 📋 About Me
 ```json
 {
  "name": "Khalid AlShammari",
@@ -11,9 +11,10 @@
  "skills": [
    "C#", ".NET", "Winforms", "Entity Framework", "LINQ", "ADO.NET", 
    "SQL Server", "SQL/T-SQL", "RESTful API", "Git", "3-Tier Architecture"
- ],
- "contact": {
-   "email": "khalidshammari@outlook.sa"
- }
+ ]
 }
 ```
+### 📫 Reach Out  
+→ Email: khalidshammari@outlook.sa  
+→ LinkedIn: [Khalid Alshammari](https://www.linkedin.com/in/khalidshammari/)  
+→ Telegram: [@khshammari](https://t.me/khshammari)  
